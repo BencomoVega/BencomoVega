@@ -36,7 +36,7 @@ allowing me to translate complex data into actionable insights for non-technical
 - **BBI Spa Analytics**  
   Real-world Business Intelligence case study analysing agenda usage, capacity constraints
   and optimisation opportunities for a spa centre.  
-  ➡️https://github.com/BencomoVega/BBI-Spa-Analytics
+  ➡️ https://github.com/BencomoVega/BBI-Spa-Analytics
 
 - **Data Capture and Preparation**  
   End-to-end data capture, cleaning and transformation workflow in Python,
