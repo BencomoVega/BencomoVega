@@ -32,21 +32,21 @@ allowing me to translate complex data into actionable insights for non-technical
 
 ---
 
-## 📌 Selected projects
+## ✔️ Selected projects
 - **BBI Spa Analytics**  
   Real-world Business Intelligence case study analysing agenda usage, capacity constraints
   and optimisation opportunities for a spa centre.  
-  👉 https://github.com/BencomoVega/BBI-Spa-Analytics
+  ➡️https://github.com/BencomoVega/BBI-Spa-Analytics
 
 - **Data Capture and Preparation**  
   End-to-end data capture, cleaning and transformation workflow in Python,
   focusing on data quality and preparation for analytical use.  
-  👉 https://github.com/BencomoVega/data-capture-and-preparation
+  ➡️ https://github.com/BencomoVega/data-capture-and-preparation
 
 - **Data Mining: PCA & Clustering**  
   Applied data mining project using dimensionality reduction and clustering techniques
   to explore patterns in structured data.  
-  👉 https://github.com/BencomoVega/data-mining-pca-clustering-classification
+  ➡️ https://github.com/BencomoVega/data-mining-pca-clustering-classification
 
 ---
 
